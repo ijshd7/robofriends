@@ -1,3 +1,6 @@
+# Robofriends app created with React. Utilizes Tachyons for styling. Also utilizes the Robohash API for images of robots and the JSONPlaceHolder API for fake user information. Enjoy!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
